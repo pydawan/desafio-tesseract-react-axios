@@ -1,0 +1,36 @@
+.membros {
+  max-width: 500px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+
+.membros article {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.membros article a {
+  width: 30%;
+  height: 42px;
+  background: none;
+  margin-top: 10px;
+  color: #da552f;
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+}
+
+.membros article a:hover {
+  font-size: 1.1em;
+}
+
+.membros img {
+  width: 25%;
+  border-radius: 50%;
+}
